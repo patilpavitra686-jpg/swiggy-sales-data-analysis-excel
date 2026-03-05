@@ -1,3 +1,5 @@
+## Dashboard Preview
+[Dashboard](dashboard.png)
 Swiggy Sales Data Analysis Dashboard (Excel)
 
 Project Overview
@@ -48,5 +50,6 @@ Conclusion
 
 This project demonstrates how Microsoft Excel can be used for effective data analysis and dashboard creation.
 It highlights the ability to analyze datasets and present meaningful insights through interactive visualizations.
+
 
 This project is part of my learning journey in Data Analytics and focuses on building practical skills in Excel-based data analysis and dashboard development.
