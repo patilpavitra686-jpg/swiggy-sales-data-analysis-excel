@@ -42,11 +42,11 @@ Project Files
 ### Sales Trend Analysis
 ![Sales Trends](analysis1.png)
 
-### Food Category Distribution
-![Food Category](analysis2.png)
+###  Trend Analysis
+![Trend Analysis](analysis2.png)
 
-### Daily Sales Analysis
-[Daily Sales](analysis3.png)
+### State Sales Analysis
+[State Sales](analysis3.png)
 
 ### Top Cites by Sales
 ![Top Cities](analysis4.png)
@@ -61,6 +61,7 @@ It highlights the ability to analyze datasets and present meaningful insights th
 
 
 This project is part of my learning journey in Data Analytics and focuses on building practical skills in Excel-based data analysis and dashboard development.
+
 
 
 
