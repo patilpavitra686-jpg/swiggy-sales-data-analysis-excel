@@ -38,11 +38,21 @@ Project Files
 ![Dashboard](dashboard.png)
 
 ## Data Analysis
-![Analysis 1](analysis1.png)
-![Analysis 2](analysis2.png)
-[!Analysis 3](analysis3.png)
-![Analysis 4](analysis4.png)
-![Analysis 5](analysis5.png)
+
+### Sales Trend Analysis
+![Sales Trends](analysis1.png)
+
+### Food Category Distribution
+![Food Category](analysis2.png)
+
+### Daily Sales Analysis
+[Daily Sales](analysis3.png)
+
+### Top Cites by Sales
+![Top Cities](analysis4.png)
+
+###Weekly Sales Trend
+![Weekly Trend](analysis5.png)
 
 Conclusion
 
@@ -51,6 +61,7 @@ It highlights the ability to analyze datasets and present meaningful insights th
 
 
 This project is part of my learning journey in Data Analytics and focuses on building practical skills in Excel-based data analysis and dashboard development.
+
 
 
 
