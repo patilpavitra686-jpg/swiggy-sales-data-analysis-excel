@@ -54,6 +54,10 @@ Project Files
 ###Weekly Sales Trend
 ![Weekly Trend](analysis5.png)
 
+
+## Dataset
+The dataset used for this projects can be accessed here:https://docs.google.com/spreadsheets/d/1_R-Zfi8WbOQRA-tfoFY7Jgqnz8UpD-_g/edit?usp=sharing&ouid=107104488886534156515&rtpof=true&sd=true
+
 Conclusion
 
 This project demonstrates how Microsoft Excel can be used for effective data analysis and dashboard creation.
@@ -61,6 +65,7 @@ It highlights the ability to analyze datasets and present meaningful insights th
 
 
 This project is part of my learning journey in Data Analytics and focuses on building practical skills in Excel-based data analysis and dashboard development.
+
 
 
 
