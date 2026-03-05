@@ -34,17 +34,15 @@ Project Files
 - dashboard.png – Final dashboard visualization
 - analysis1.png – analysis5.png – Data analysis screenshots
 
-Dashboard Preview
-
-"Dashboard" (dashboard.png)
+## Dashboard Preview
+![Dashboard] (dashboard.png)
 
 ## Data Analysis
-
-![Analysis] (analysis1.png)
-![Analysis] (analysis2.png)
-[!Analysis] (analysis3.png)
-![Analysis] (analysis4.png)
-![Analysis] (analysis5.png)
+![Analysis 1] (analysis1.png)
+![Analysis 2] (analysis2.png)
+[!Analysis 3] (analysis3.png)
+![Analysis 4] (analysis4.png)
+![Analysis 5] (analysis5.png)
 
 Conclusion
 
@@ -53,4 +51,5 @@ It highlights the ability to analyze datasets and present meaningful insights th
 
 
 This project is part of my learning journey in Data Analytics and focuses on building practical skills in Excel-based data analysis and dashboard development.
+
 
